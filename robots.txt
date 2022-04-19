@@ -6,3 +6,5 @@ Disallow: /logo.png
 Disallow: /sitemap.xml
 Disallow: /style.css
 Allow: /
+
+Sitemap: https://grosseticism.art/sitemap.xml
