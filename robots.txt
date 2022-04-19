@@ -1,10 +1,6 @@
 User-agent: *
-Disallow: /CNAME
-Disallow: /LICENSE
 Disallow: /background.jpg
 Disallow: /logo.png
-Disallow: /sitemap.xml
-Disallow: /style.css
 Allow: /
 
 Sitemap: https://grosseticism.art/sitemap.xml
