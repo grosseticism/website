@@ -1,3 +1,8 @@
 User-agent: *
-Allow: /index.html
-Disallow: /
+Disallow: /CNAME
+Disallow: /LICENSE
+Disallow: /background.jpg
+Disallow: /logo.png
+Disallow: /sitemap.xml
+Disallow: /style.css
+Allow: /
